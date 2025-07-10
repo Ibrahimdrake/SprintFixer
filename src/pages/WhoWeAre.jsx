@@ -19,7 +19,7 @@ export default function SprintfixerLanding() {
           {/* Circular photo group */}
           <div className="rounded-full border-8 border-#F58634 overflow-hidden w-56 h-56 flex items-center justify-center mb-10 md:mb-0">
             <img
-              src="public/assets/WhoWeAre Page pics/0b7442b77af656395ed4dda0b7aedc97982b469b.png" 
+              src="/assets/WhoWeAre Page pics/0b7442b77af656395ed4dda0b7aedc97982b469b.png" 
               alt=""
               className="object-cover w-full h-full"
             />
@@ -54,7 +54,7 @@ export default function SprintfixerLanding() {
           {/* Card 1 - Accountability */}
           <div className="bg-sprintfixer-darkgreen text-sprintfixer-yellow p-6 rounded-md shadow-md flex flex-col items-center space-y-4">
             <img
-              src="public/assets/WhoWeAre Page pics/Accountability icon.png" 
+              src="/assets/WhoWeAre Page pics/Accountability icon.png" 
               alt=""
               className="w-12 h-12"
             />
@@ -67,7 +67,7 @@ export default function SprintfixerLanding() {
           {/* Card 2 - Trust */}
           <div className="bg-sprintfixer-darkgreen text-sprintfixer-yellow p-6 rounded-md shadow-md flex flex-col items-center space-y-4">
             <img
-              src="public/assets/WhoWeAre Page pics/Trust Icon.png"
+              src="/assets/WhoWeAre Page pics/Trust Icon.png"
               alt=""
               className="w-12 h-12"
             />
@@ -80,7 +80,7 @@ export default function SprintfixerLanding() {
           {/* Card 3 - Innovation */}
           <div className="bg-sprintfixer-darkgreen text-sprintfixer-yellow p-6 rounded-md shadow-md flex flex-col items-center space-y-4">
             <img
-              src="public/assets/WhoWeAre Page pics/Innovation icon.png"
+              src="/assets/WhoWeAre Page pics/Innovation icon.png"
               alt=""
               className="w-12 h-12"
             />
@@ -93,7 +93,7 @@ export default function SprintfixerLanding() {
           {/* Card 4 - Placeholder */}
           <div className="bg-sprintfixer-darkgreen text-sprintfixer-yellow p-6 rounded-md shadow-md flex flex-col items-center space-y-4">
             <img
-              src="public/assets/WhoWeAre Page pics/Excellence icon.png"
+              src="/assets/WhoWeAre Page pics/Excellence icon.png"
               alt=""
               className="w-12 h-12"
             />
@@ -113,7 +113,7 @@ export default function SprintfixerLanding() {
             Our mission is to redefine how Nigerians experience everyday services by building a transparent platform that connects verified artisans to customers, putting safety, convenience, and quality service first.
           </p>
           <img
-            src="public/assets/WhoWeAre Page pics/Worker image.png"
+            src="/assets/WhoWeAre Page pics/Worker image.png"
             alt=""
             className="absolute right-8 bottom-0 w-24 h-24"
           />
@@ -142,17 +142,17 @@ export default function SprintfixerLanding() {
             </button>
           </div>
           <img
-            src="public/assets/WhoWeAre Page pics/Verify.jpg"
+            src="/assets/WhoWeAre Page pics/Verify.jpg"
             alt=""
             className="w-64 h-64 object-cover rounded-md"
           />
           <img
-            src="public/assets/WhoWeAre Page pics/Market place.jpg"
+            src="/assets/WhoWeAre Page pics/Market place.jpg"
             alt=""
             className="w-44 h-44 object-cover rounded-md"
             />
              <img
-            src="public/assets/WhoWeAre Page pics/Customer Support.jpg"
+            src="/assets/WhoWeAre Page pics/Customer Support.jpg"
             alt=""
             className="w-44 h-44 object-cover rounded-md"
             />
