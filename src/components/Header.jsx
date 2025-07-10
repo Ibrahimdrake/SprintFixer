@@ -7,7 +7,7 @@ const Header = () => {
       {/* Logo and Brand */}
       <div className="flex items-center space-x-2">
         <img
-          src="public/assets/WhoWeAre Page pics/Logo.png"
+          src="/assets/WhoWeAre Page pics/Logo.png"
           alt=""
           className="w-8 h-8"
         />
